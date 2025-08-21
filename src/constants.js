@@ -194,7 +194,7 @@ export const SkillsInfo = [
         "The User Management System is a secure and scalable web application designed to handle user-related operations such as registration, login, role-based access control, profile management, and password recovery. Built with modern backend and frontend technologies, it ensures efficient data handling, authentication, and user interaction.",
       image: userSystem,
       tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
-      github: "https://github.com/RaushanKumar606/UserManegmentSystem",
+      github: "https://github.com/RaushanKumar606/UserManagmentSystem/tree/master",
       webapp: "https://user-managment-system-rust.vercel.app/",
     },
     {
