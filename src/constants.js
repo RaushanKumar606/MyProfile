@@ -48,7 +48,7 @@ import todo from './assets/work_logo/task_rem.png';
 import food from './assets/work_logo/food.png';
 import travel from './assets/work_logo/trvaling.png';
 import wather from './assets/work_logo/wather.png';
-
+import Quiz from './assets/work_logo/quiz.png';
 
 export const SkillsInfo = [
   {
@@ -123,7 +123,6 @@ export const SkillsInfo = [
         "Tailwind CSS",
         "MongoDb",
         "Redux",
-        " Next Js",
       ],
     },
    
@@ -235,6 +234,16 @@ export const SkillsInfo = [
       tags: ["JavaScript", "HTML", "CSS"],
       github: "https://github.com/RaushanKumar606/Todo-App",
       webapp: "https://todo-app-lbu5-1amij24pq-raushans-projects-db12c48d.vercel.app/",
+    },
+
+     {
+      id:6 ,
+      title: "Quiz App",
+      description:"A full-stack quiz platform with secure authentication, dynamic question management, timed tests, automatic scoring, and responsive UI built using MERN Stack",
+        image: todo,
+      tags: ["JavaScript", "HTML", "CSS","React","Node js","Express","Mongooes"],
+      github: "https://github.com/RaushanKumar606/QuizApp",
+      webapp: "https://quiz-app-nine-plum-46.vercel.app/",
     },
    
   ];  
